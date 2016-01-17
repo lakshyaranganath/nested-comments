@@ -1,0 +1,17 @@
+.comment-box {
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid black;
+}
+
+.comment-box--reply {
+  color: blue;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.post--reply {
+  color: red;
+  font-size: 12px;
+  cursor: pointer;
+}
